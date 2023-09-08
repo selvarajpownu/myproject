@@ -1,2 +1,3 @@
 git merge with two repository
+now, using pull git command
 
