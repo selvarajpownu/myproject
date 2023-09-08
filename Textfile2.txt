@@ -1,3 +1,4 @@
 git merge with two repository
 now, using pull git command
+Now merging to orginal files to main repo
 
