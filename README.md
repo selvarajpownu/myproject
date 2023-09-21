@@ -1,2 +1,2 @@
 # myproject
-creating first git file
+Python Learning
